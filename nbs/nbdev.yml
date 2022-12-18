@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fun-repo"
+  site-url: "https://deven367.github.io/fun-repo"
+  description: "repo trying fun OSS libraries"
+  repo-branch: main
+  repo-url: "https://github.com/deven367/fun-repo"
