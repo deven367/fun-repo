@@ -9,7 +9,7 @@ documentation.
 ## Install
 
 ``` sh
-pip install fun_repo
+pip install fun-repo
 ```
 
 ## How to use
