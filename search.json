@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "fun-repo",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "fun-repo",
+    "section": "Install",
+    "text": "Install\npip install fun_repo"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "fun-repo",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()"
+  },
+  {
+    "objectID": "lovely-tensors.html",
+    "href": "lovely-tensors.html",
+    "title": "lovely-tensors",
+    "section": "",
+    "text": "!pip show lovely-tensors\n\nName: lovely-tensors\nVersion: 0.1.14\nSummary: ❤️ Lovely Tensors\nHome-page: https://github.com/xl0/lovely-tensors\nAuthor: Alexey Zaytsev\nAuthor-email: alexey.zaytsev@gmail.com\nLicense: MIT License\nLocation: /home/deven/mambaforge/envs/pth/lib/python3.10/site-packages\nRequires: fastcore, ipython, lovely-numpy, matplotlib, numpy, pillow, torch\nRequired-by: \n\n\n\nimport lovely_tensors as lt\nimport torch\n\n\nlt.monkey_patch()\n\n\nx = torch.randn((3, 100, 100))\n\n\nx\n\ntensor[3, 100, 100] n=30000 x∈[-3.882, 4.334] μ=0.001 σ=1.006\n\n\n\nx.plt.fig\n\n\n\n\n\nx.chans"
+  }
+]
